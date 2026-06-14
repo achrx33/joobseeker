@@ -1,0 +1,50 @@
+[
+  {
+    "id": "frontend-developer",
+    "title": "Frontend Developer",
+    "company": "Northstar Labs",
+    "location": "Remote · United States",
+    "type": "Full-time",
+    "salary": "$110k - $140k",
+    "experience": "2+ years",
+    "category": "Engineering",
+    "postedAt": "2 days ago",
+    "description": "Build polished user interfaces for a fast-growing SaaS platform used by modern teams."
+  },
+  {
+    "id": "product-designer",
+    "title": "Product Designer",
+    "company": "BrightPath",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$95k - $125k",
+    "experience": "3+ years",
+    "category": "Design",
+    "postedAt": "1 day ago",
+    "description": "Shape product experiences from research and prototyping through launch and iteration."
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "company": "Cedar Analytics",
+    "location": "Austin, TX",
+    "type": "Contract",
+    "salary": "$70k - $90k",
+    "experience": "1+ years",
+    "category": "Analytics",
+    "postedAt": "3 days ago",
+    "description": "Turn complex business questions into clear dashboards and actionable insights."
+  },
+  {
+    "id": "customer-success-manager",
+    "title": "Customer Success Manager",
+    "company": "LoopWorks",
+    "location": "Remote · Europe",
+    "type": "Full-time",
+    "salary": "$80k - $100k",
+    "experience": "2+ years",
+    "category": "Operations",
+    "postedAt": "5 days ago",
+    "description": "Help customers launch, adopt, and grow with our platform through trusted relationships."
+  }
+]
